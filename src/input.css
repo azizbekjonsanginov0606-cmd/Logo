@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+.s{
+    background-image: url(./img/Rectangle\ 187.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
